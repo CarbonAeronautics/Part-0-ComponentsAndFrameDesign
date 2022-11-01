@@ -6,4 +6,4 @@ Link to quadcopter frame PCB: https://oshwlab.com/droneer/Carbon-Aeronautics-Qua
 
 Full code on GitHub: https://github.com/CarbonAeronautics
 
-[![alt text](https://github.com/CarbonAeronautics/FlightControllerRateMode/blob/2bebf29a2ca59249d8c3f0c36ffa1af6077a5b8c/THUMBNAIL_YOUTUBE.png?raw=true)](https://www.youtube.com/watch?v=fQhsgUEnV2w)
+[![alt text](https://github.com/CarbonAeronautics/Part-0-ComponentsAndFrameDesign/blob/2ca68feb5c30cf78aa0afd0b210afae81d7e0bb5/THUMBNAIL_YOUTUBE.png?raw=true)](https://www.youtube.com/watch?v=fQhsgUEnV2w)
